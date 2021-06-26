@@ -1,0 +1,73 @@
+h1 {
+  font-size: 500%;
+}
+a{
+  font-size: 200%;
+  margin-left: 35%;
+}
+h2 {
+  color: #053742;
+  font-size: 250%;
+}
+.h3{
+  margin-left: 40%;
+}
+p {
+  width: 48%;
+  font-size: 150%;
+}
+div {
+  background-image: url(https://st2.depositphotos.com/6504442/9283/i/950/depositphotos_92834640-stock-photo-raster-abstract-light-pink-yellow.jpg);
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+table{
+  font-size: 150%;
+  width: 35%;
+  margin-left: 35%;
+}
+.image2 {
+  background-image: url(http://sfwallpaper.com/images/cotton-candy-wallpaper-9.jpg);
+  margin: 0;
+}
+.progimage{
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  margin-left: 15%;
+}
+.progimage2{
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  margin-left: 55%;
+}
+.Achievements{
+  background-image: url(https://wallpaperscave.com/images/thumbs/wp-preview/800x500/18/09-12/artistic-nature-83554.jpg);
+}
+.rushil{
+  font-style: italic;
+}
+.image {
+  background-image: url(https://www.teahub.io/photos/full/125-1253801_website-background.png);
+  margin: 0;
+}
+body
+{
+  background-color: #FFEEDB;
+  color: #053742;
+  margin: 0;
+}
+hr
+{
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 5px;
+  width:5%;
+}
+img
+{
+  height: 400px;
+  border-radius: 75%;
+}
